@@ -3,7 +3,7 @@ Find out where a person lives by ip
 
 # How to start?
 
-write 'pip install -r requirements.txt'
+write 'pip install -r requirements.txt' on the console
 
 start ip-info.py
 
