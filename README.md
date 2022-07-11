@@ -3,9 +3,9 @@ Find out where a person lives by ip
 
 # How to start?
 
-write 'pip install -r requirements.txt' on the console
+install [Python](https://python,org/download)
 
-start ip-info.py
+click on install.bat
 
-you must have python installed on your pc
+click on start.bat
 
