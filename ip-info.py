@@ -27,7 +27,8 @@ def get_info_by_ip(ip='127.0.0.1'):
         area.save(f'{response.get("query")}_{response.get("city")}.html')
         
     except requests.exceptions.ConnectionError:
-        print('Check your connection!')
+        print('A connection error occurred!')
+        print('Please check')
         
         
 def main():
