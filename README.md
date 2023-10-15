@@ -1,5 +1,8 @@
 # ip-info
-Find out where a person lives by ip
+
+- Find the information of an ip with this code
+
+(often used for bad purposes)
 
 # How to start?
 
