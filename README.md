@@ -8,9 +8,7 @@
 
 - install [Python](https://python,org/download)
 
-- click on install.bat
-
-- now click on start.bat
+- click on start.bat
 
 
 
